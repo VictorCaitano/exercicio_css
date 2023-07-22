@@ -8,7 +8,7 @@
 h1{
     padding: 10px 8px;
     font-size: 50px;
-    color:#f6f5fa ;
+    color:#fff ;
     background-color: brown;
 }
 header{
@@ -31,6 +31,7 @@ header .container a{
     text-decoration: none;
     display: inline-block;
     background-color:red;
+    color: #fff;
     padding: 10px;
     border-radius: 10px;
 }
@@ -42,6 +43,7 @@ section h2{
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: 40px;
+    color: black;
 }
 .container{
     width: 1366px;
